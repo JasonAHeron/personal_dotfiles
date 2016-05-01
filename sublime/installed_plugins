@@ -1,0 +1,23 @@
+{
+    "installed_packages":
+    [
+        "AutoFileName",
+        "BracketHighlighter",
+        "ExportHtml",
+        "GenerateUUID",
+        "HexViewer",
+        "Neon Color Scheme",
+        "PackageResourceViewer",
+        "PlistJsonConverter",
+        "Python Flake8 Lint",
+        "Python Improved",
+        "SideBarEnhancements",
+        "SideBarGit",
+        "SublimeCodeIntel",
+        "SublimeLinter",
+        "SublimeREPL",
+        "Tag",
+        "Terminal",
+        "Theme - Soda"
+    ]
+}
